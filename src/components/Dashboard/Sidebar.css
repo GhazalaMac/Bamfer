@@ -1,0 +1,152 @@
+/* 
+
+.sidebar {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background-color: #023f80;
+    padding: 20px;
+    color: white;
+    z-index: 1000;
+    overflow-y: auto;
+  }
+  
+  .sidebar__logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .sidebar__menu {
+    position: relative;
+  }
+  
+  .sidebar__menu__item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .sidebar__menu__item__icon {
+    margin-right: 10px;
+  }
+  
+  .sidebar__menu__item__arrow {
+    margin-left: auto;
+  }
+  
+  .sidebar__menu__item__arrow {
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+  }
+  
+  .sidebar__menu__item:hover .sidebar__menu__item__arrow {
+    opacity: 1;
+  }
+  
+  .sidebar__menu__item:hover {
+    background-color: #f8f3f3;
+    color: #184CA2;
+    border-radius: 2px;
+  }
+  
+  .sidebar__menu__item.active {
+    background-color: #fcf8f8;
+  }
+  
+  .sidebar__menu__item__text {
+    font-size: 1rem;
+  }
+  
+
+  
+  .main-content {
+    margin-left: 280px; 
+  }
+  
+  .search-bar {
+    margin-top: 20px; 
+    margin-left: 20px; 
+    display: flex;
+    align-items: center;
+    border: 1px solid #9a9999;
+    border-radius: 5px;
+    padding: 8px 8px;
+  }
+  
+  .search-icon {
+    margin-right: 10px;
+  }
+  
+  .search-input {
+    flex-grow: 1;
+    border: none;
+    padding: 8px;
+    font-size: 16px;
+    background-color: #ccc;
+  }
+  
+  .search-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+    font-size: small;
+  }
+  
+  .content {
+    margin-top: 20px;
+    margin-left: 30px; 
+  }
+   */
+   *{
+    font-family: Montserrat;
+   }
+ 
+  /* .search-bar {
+    margin-top: 20px; 
+    margin-left: 20px; 
+    display: flex;
+    align-items: center;
+    border: 1px solid #9a9999;
+    border-radius: 5px;
+    padding: 8px 8px;
+  } */
+/*   
+  .search-icon {
+    margin-right: 10px;
+  }
+  
+  .search-input {
+    flex-grow: 1;
+    border: none;
+    padding: 8px;
+    font-size: 16px;
+    background-color: #ccc;
+  }
+  
+  .search-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+    font-size: small;
+  } */
+  
+  .content {
+    margin-top: 20px;
+    margin-left: 30px; 
+  }
+   /* .navbar{
+ 
+    background: #676768;
+   } */
+  
+   
